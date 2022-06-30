@@ -1,0 +1,9 @@
+_site
+_posts
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.idea
+.vscode
+vendor
+.bundle
