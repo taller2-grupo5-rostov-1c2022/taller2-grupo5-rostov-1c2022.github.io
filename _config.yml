@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://taller2-grupo5-rostov-1c2022.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
+color_scheme: light
 
 # Build settings
 markdown: kramdown
