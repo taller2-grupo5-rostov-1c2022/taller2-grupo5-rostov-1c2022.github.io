@@ -13,7 +13,7 @@ nav_order: 1
 
 La aplicación fue desarrollada en una arquitectura de microservicios.
 
-![Arquitectura](./images/Taller2%20-%20Diagramas%20-%20Arquitectura.png)
+![Arquitectura](./img/arquitectura.png)
 
 ## Descripción de los microservicios
 
