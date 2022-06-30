@@ -125,6 +125,6 @@ If you use the theme as a gem, you must initialize the search by running this `r
 $ bundle exec just-the-docs rake search:init
 ```
 
-[//]: # (This command creates the `assets/js/zzzz-search-data.json` file that Jekyll uses to create your search index.)
+This command creates the `assets/js/zzzz-search-data.json` file that Jekyll uses to create your search index.
 
-[//]: # (Alternatively, you can create the file manually with [this content]&#40;{{ site.github.repository_url }}/blob/main/assets/js/zzzz-search-data.json&#41;.)
+Alternatively, you can create the file manually with [this content]({{ site.github.repository_url }}/blob/main/assets/js/zzzz-search-data.json).
