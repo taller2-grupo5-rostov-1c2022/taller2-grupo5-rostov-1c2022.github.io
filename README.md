@@ -6,18 +6,18 @@ This documentation is based on [Jekyll](https://jekyllrb.com/) with [just-the-do
 
 This project needs the following dependencies in the following order:
 
-[Ruby](https://jekyllrb.com/)
+[Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 
 ```bash
 sudo apt-get install ruby-full
 ```
-[Bundler](https://bundler.io/) and [Jekyll](https://bundler.io/)
+[Bundler](https://bundler.io/) and [Jekyll](https://jekyllrb.com/)
 
 ```bash
 gem install jekyll bundler
 ```
 
-Once you have them installed and this repo is cloned, you can run the following command to install the local dependencies from Gemfile:
+Once you have them installed and this repo is cloned, you can run the following command to install the local dependencies from `Gemfile`:
 
 ```bash
 bundle config set --local path 'vendor/bundle'
