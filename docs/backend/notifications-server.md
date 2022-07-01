@@ -2,7 +2,7 @@
 layout: default
 title: Notificaciones
 parent: Backend
-nav_order: 7
+nav_order: 3
 ---
 
 ### [Servicio de notificaciones](https://github.com/taller2-grupo5-rostov-1c2022/notifs-server)
