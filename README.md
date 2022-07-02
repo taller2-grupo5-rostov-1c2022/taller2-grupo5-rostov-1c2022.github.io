@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/taller2-grupo5-rostov-1c2022/taller2-grupo5-rostov-1c2022.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/taller2-grupo5-rostov-1c2022/taller2-grupo5-rostov-1c2022.github.io/actions/workflows/pages/pages-build-deployment)
+
 # Taller 2 - Grupo 5 - Rostov 1C2022
 
 This documentation is based on [Jekyll](https://jekyllrb.com/) with [just-the-docs](https://just-the-docs.github.io/just-the-docs/) theme.
