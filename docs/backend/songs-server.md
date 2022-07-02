@@ -39,6 +39,8 @@ cual fue generada automáticamente por `FastAPI`.
 [![](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/)
 [![](https://img.shields.io/badge/docs-fastapi-blue.svg)](https://fastapi.tiangolo.com/)
 
+**Aclaración:** `Pipeline` incluye linter-tests (coverage)-deploy
+
 # Deploy
 
 ## Heroku
