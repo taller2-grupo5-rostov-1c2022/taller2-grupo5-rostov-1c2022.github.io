@@ -15,7 +15,7 @@ nav_order: 1
 </details>
 
 
-# [Servicio de contenido y usuarios](https://github.com/taller2-grupo5-rostov-1c2022/songs-server)
+# Servicio de contenido y usuarios
 
 - Es un **monolito de contenido y usuarios**, lo cual simplifica las relaciones entre el contenido y los usuarios.
 - **Contenido**: canciones, playlists, álbumes, comentarios, reviews, favoritos.
@@ -36,7 +36,7 @@ cual fue generada automáticamente por `FastAPI`.
 
 [![Pipeline](https://github.com/taller2-grupo5-rostov-1c2022/songs-server/actions/workflows/pipeline.yml/badge.svg?branch=master)](https://github.com/taller2-grupo5-rostov-1c2022/songs-server/actions/workflows/pipeline.yml)
 [![codecov](https://codecov.io/gh/taller2-grupo5-rostov-1c2022/songs-server/branch/master/graph/badge.svg?token=LJIu1T1HQr)](https://codecov.io/gh/taller2-grupo5-rostov-1c2022/songs-server)
-[![](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/)
+[![](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/)
 [![](https://img.shields.io/badge/docs-fastapi-blue.svg)](https://fastapi.tiangolo.com/)
 
 **Aclaración:** `Pipeline` incluye linter-tests (coverage)-deploy
@@ -82,7 +82,7 @@ son las siguientes:
 - `HEROKU_APP_NAME:` nombre de la app en Heroku, requerida como action secret.
 - `HEROKU_EMAIL:` mail de la cuenta de Heroku utilizada para el deploy, requerida como action secret.
 - `CODECOV_TOKEN:` token de codecov, requerido para subir reportes de coverage mediante el pipeline de GitHub Actions.
-- `AGORA_APP_CERT:`
-- `AGORA_APP_ID:`
+- `AGORA_APP_CERT:` token de autenticación de la app de [Agora](https://www.agora.io/en/) (provee funcionalidades para hacer streams), requerido como config var en Heroku.
+- `AGORA_APP_ID:` ID de la app en [Agora](https://www.agora.io/en/), requerida como config var en Heroku.
 - `FIREBASE_ID:`
 - `FIREBASE_KEY:`
