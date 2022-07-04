@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Backend
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /docs/backend
 ---
@@ -22,7 +22,7 @@ La aplicación fue desarrollada en una arquitectura de microservicios.
 
 # Arquitectura general
 
-![Arquitectura](../../img/arquitectura.png)
+![Arquitectura](../../img/back/arquitectura.png)
 
 # Templates
 
