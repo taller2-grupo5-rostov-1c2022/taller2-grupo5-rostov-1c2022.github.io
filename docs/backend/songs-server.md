@@ -29,7 +29,7 @@ En [este link](https://github.com/taller2-grupo5-rostov-1c2022/songs-server) se 
 
 # Documentación OpenAPI
 
-La documentación referida a la especificación OpenAPI del servicio se puede encontrar en https://rostov-song-server.herokuapp.com/docs, la
+La documentación referida a la especificación OpenAPI del servicio se puede encontrar en [https://rostov-song-server.herokuapp.com/docs](https://github.com/taller2-grupo5-rostov-1c2022/payments-server#api-documentation), la
 cual fue generada automáticamente por `FastAPI`.
 
 # Estado de badges
@@ -47,7 +47,7 @@ cual fue generada automáticamente por `FastAPI`.
 
 El deploy hacia Heroku se encuentra automatizado dentro del [pipeline de GitHub Actions](https://github.com/taller2-grupo5-rostov-1c2022/songs-server/blob/master/.github/workflows/pipeline.yml)
 usando la imagen de Docker del servicio en desarrollo. En particular, se necesitan las siguientes
-[variables de entorno](https://github.com/taller2-grupo5-rostov-1c2022/songs-server#heroku).
+[variables de entorno](https://github.com/taller2-grupo5-rostov-1c2022/songs-server#heroku) para generar el deploy automático.
 
 ## Local
 
