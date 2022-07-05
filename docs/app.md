@@ -4,6 +4,15 @@ title: Aplicación
 nav_order: 2
 ---
 
+<details open markdown="block">
+  <summary>
+	Contenidos
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # **Manual de uso**
 
 ## **proposito**

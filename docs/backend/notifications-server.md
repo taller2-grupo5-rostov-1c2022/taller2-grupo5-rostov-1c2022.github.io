@@ -5,6 +5,15 @@ parent: Backend
 nav_order: 3
 ---
 
+<details open markdown="block">
+  <summary>
+	Contenidos
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ### [Servicio de notificaciones](https://github.com/taller2-grupo5-rostov-1c2022/notifs-server)
 
 * Envía **notificaciones push** a los dispositivos. Para lograrlo, debe adminitrar

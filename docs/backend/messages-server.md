@@ -5,6 +5,15 @@ parent: Backend
 nav_order: 4
 ---
 
+<details open markdown="block">
+  <summary>
+	Contenidos
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ### [Servicio de mensajes](https://github.com/taller2-grupo5-rostov-1c2022/messages-server)
 
 * Se encarga de la **mensajería** entre usuarios.

@@ -5,6 +5,15 @@ parent: Backend
 nav_order: 2
 ---
 
+<details open markdown="block">
+  <summary>
+	Contenidos
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ### [Servicio de pagos](https://github.com/taller2-grupo5-rostov-1c2022/payments-server)
 
 * Orientado a interactuar con el **Smart Contract.**
