@@ -2,7 +2,7 @@
 layout: default
 title: Pagos
 parent: Backend
-nav_order: 2
+nav_order: 3
 ---
 
 <details open markdown="block">
@@ -16,9 +16,9 @@ nav_order: 2
 
 # Servicio de pagos
 
-* Orientado a interactuar con el **Smart Contract.**
-* Crea la **wallet** para cada usuario de la aplicación.
-* Persiste la información de cada **transacción** realizada en el sistema, tanto desde un usuario hacia la plataforma como desde la plataforma hacia un usuario.
+- Orientado a interactuar con el **Smart Contract.**
+- Crea la **wallet** para cada usuario de la aplicación.
+- Persiste la información de cada **transacción** realizada en el sistema, tanto desde un usuario hacia la plataforma como desde la plataforma hacia un usuario.
 
 En [este link](https://github.com/taller2-grupo5-rostov-1c2022/payments-server) se puede acceder al repositorio.
 

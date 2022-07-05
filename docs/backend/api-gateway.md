@@ -2,7 +2,7 @@
 layout: default
 title: API Gateway
 parent: Backend
-nav_order: 5
+nav_order: 1
 ---
 
 <details open markdown="block">
