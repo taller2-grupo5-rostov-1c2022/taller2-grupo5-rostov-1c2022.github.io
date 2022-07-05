@@ -26,6 +26,15 @@ bundle config set --local path 'vendor/bundle'
 bundle install
 ```
 
+## Docker
+
+Run the following command in the project root to build the docker image:
+
+```bash
+$ docker-compose up --build
+```
+
+
 ## Local Development
 
 Just run:
