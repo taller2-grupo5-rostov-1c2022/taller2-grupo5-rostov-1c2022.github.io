@@ -14,6 +14,6 @@ nav_order: 6
 {:toc}
 </details>
 
-### [Lambdas](https://github.com/taller2-grupo5-rostov-1c2022/Lambda)
+# Lambdas
 
-aaaaaa
+En [este link](https://github.com/taller2-grupo5-rostov-1c2022/Lambda) se puede acceder al repositorio.

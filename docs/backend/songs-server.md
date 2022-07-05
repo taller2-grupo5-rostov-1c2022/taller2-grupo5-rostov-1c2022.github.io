@@ -29,7 +29,7 @@ En [este link](https://github.com/taller2-grupo5-rostov-1c2022/songs-server) se 
 
 # Documentación OpenAPI
 
-La documentación referida a la especificación OpenAPI del servicio se puede encontrar en [https://rostov-song-server.herokuapp.com/docs](https://github.com/taller2-grupo5-rostov-1c2022/payments-server#api-documentation), la
+La documentación referida a la especificación OpenAPI del servicio se puede encontrar en [https://rostov-song-server.herokuapp.com/docs](https://rostov-song-server.herokuapp.com/docs), la
 cual fue generada automáticamente por `FastAPI`.
 
 # Estado de badges
