@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manual de Aplicación
+title: Manual de Usuario
 parent: Aplicación
 nav_order: 1
 ---
@@ -14,7 +14,7 @@ nav_order: 1
 {:toc}
 </details>
 
-# Manual de uso
+# Manual de Usuario
 
 ## Iniciar Sesión
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manual
+title: Manual de Usuario
 parent: Backoffice
 nav_order: 1
 ---
@@ -14,14 +14,29 @@ nav_order: 1
 {:toc}
 </details>
 
-## Manual de Uso
+# Manual de Usuario
 
-### Ingreso a la plataforma
+## Ingreso a la plataforma
 
-### Usuarios
+![login](/img/backoffice/login.png)
 
-### Contenido
+## Usuarios
 
-### Pagos
+![users](/img/backoffice/users.png)
+![user](/img/backoffice/user.png)
 
-### Metricas
+## Contenido
+
+![songs](/img/backoffice/songs.png)
+![filter](/img/backoffice/filter.png)
+![song](/img/backoffice/song.png)
+![album](/img/backoffice/album.png)
+
+## Pagos
+
+![payments](/img/backoffice/payments.png)
+
+## Metricas
+
+![metrics](/img/backoffice/metrics.png)
+![detail](/img/backoffice/metrics_hover.png)
