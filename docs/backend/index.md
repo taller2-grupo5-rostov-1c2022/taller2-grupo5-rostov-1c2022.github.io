@@ -2,11 +2,12 @@
 layout: default
 title: Backend
 nav_order: 4
-has_children: true
 permalink: /docs/backend
+has_children: true
 ---
 
-[//]: # (Indice dentro de la pagina, se puede usar los headers #, ##, ###, listas, etc.)
+[//]: # "Indice dentro de la pagina, se puede usar los headers #, ##, ###, listas, etc."
+
 <details open markdown="block">
   <summary>
 	Contenidos
@@ -26,7 +27,7 @@ La aplicación fue desarrollada en una arquitectura de microservicios.
 
 # Templates
 
-Varios de los microservicios fueron creados a partir de un [template de FastAPI](https://github.com/taller2-grupo5-rostov-1c2022/fastapi-template), el cual fue evolucionando a medida que se iban 
+Varios de los microservicios fueron creados a partir de un [template de FastAPI](https://github.com/taller2-grupo5-rostov-1c2022/fastapi-template), el cual fue evolucionando a medida que se iban
 creando los primeros microservicios. Al mismo tiempo, se contó con un [template de Node.js](https://github.com/taller2-grupo5-rostov-1c2022/NodeServer) en el caso de que fuera necesario.
 
 En el [README del repositorio](https://github.com/taller2-grupo5-rostov-1c2022/fastapi-template#readme) se puede ver la lista de componentes, funcionalidades y pasos
