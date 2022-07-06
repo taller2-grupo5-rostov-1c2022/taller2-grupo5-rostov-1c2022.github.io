@@ -21,7 +21,7 @@ has_children: true
 
 La aplicación fue desarrollada en una arquitectura de microservicios.
 
-# Arquitectura general
+# Arquitectura
 
 ![Arquitectura](../../img/back/arquitectura.png)
 
