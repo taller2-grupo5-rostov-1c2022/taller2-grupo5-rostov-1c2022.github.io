@@ -33,5 +33,5 @@ La documentación de las rutas se puede encontrar en el [README](https://github.
 
 Este es desplegado en conjunto con el Back Office.
 
-- URL : [rostov-spotifiuby.netlify.app/api](https://rostov-spotifiuby.netlify.app/api)
-- Código Fuente : [GitHub](https://github.com/taller2-grupo5-rostov-1c2022/BackOfficeWeb)
+- URL: [rostov-spotifiuby.netlify.app/api](https://rostov-spotifiuby.netlify.app/api)
+- Código fuente: [GitHub](https://github.com/taller2-grupo5-rostov-1c2022/BackOfficeWeb)

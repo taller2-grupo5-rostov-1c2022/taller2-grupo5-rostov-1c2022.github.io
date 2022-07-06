@@ -7,7 +7,7 @@ This documentation is based on [Jekyll](https://jekyllrb.com/) with [just-the-do
 ## Documentation
 
 This is a repo containing documentation for RostovFC's Spotifiuby service.
-Spanning front-end , back-end and development.
+Spanning front-end, back-end and development.
 
 ## Development
 
