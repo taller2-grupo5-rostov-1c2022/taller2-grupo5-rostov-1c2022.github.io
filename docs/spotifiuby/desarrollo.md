@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Organización
-nav_order: 5
+title: Desarrollo
+parent: Spotifiuby
+nav_order: 1
 ---
+
+# Desarrollo
+
+## Organización del Proyecto
 
 - [Organizacion en Github](https://github.com/taller2-grupo5-rostov-1c2022):
   donde se encuentran todos los repositorios de la plataforma

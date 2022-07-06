@@ -4,7 +4,24 @@
 
 This documentation is based on [Jekyll](https://jekyllrb.com/) with [just-the-docs](https://just-the-docs.github.io/just-the-docs/) theme.
 
-## Dependencies
+## Documentation
+
+This is a repo containing documentation for RostovFC's Spotifiuby service.
+Spanning front-end , back-end and development.
+
+## Development
+
+### Using Docker
+
+Run the following command in the project root to build the docker image:
+
+```bash
+$ docker-compose up --build
+```
+
+### Local Installation
+
+#### Dependencies
 
 This project needs the following dependencies in the following order:
 
@@ -13,6 +30,7 @@ This project needs the following dependencies in the following order:
 ```bash
 sudo apt-get install ruby-full
 ```
+
 [Bundler](https://bundler.io/) and [Jekyll](https://jekyllrb.com/)
 
 ```bash
@@ -26,25 +44,10 @@ bundle config set --local path 'vendor/bundle'
 bundle install
 ```
 
-## Docker
-
-Run the following command in the project root to build the docker image:
-
-```bash
-$ docker-compose up --build
-```
-
-
-## Local Development
+#### Running the Docs
 
 Just run:
 
 ```bash
 bundle exec jekyll serve --incremental
 ```
-
-
-
-
-
-
