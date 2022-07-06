@@ -28,20 +28,20 @@ This project needs the following dependencies in the following order:
 [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 
 ```bash
-sudo apt-get install ruby-full
+$ sudo apt-get install ruby-full
 ```
 
 [Bundler](https://bundler.io/) and [Jekyll](https://jekyllrb.com/)
 
 ```bash
-gem install jekyll bundler
+$ gem install jekyll bundler
 ```
 
 Once you have them installed and this repo is cloned, you can run the following command to install the local dependencies from `Gemfile`:
 
 ```bash
-bundle config set --local path 'vendor/bundle'
-bundle install
+$ bundle config set --local path 'vendor/bundle'
+$ bundle install
 ```
 
 #### Running the Docs
@@ -49,5 +49,5 @@ bundle install
 Just run:
 
 ```bash
-bundle exec jekyll serve --incremental
+$ bundle exec jekyll serve --incremental
 ```
