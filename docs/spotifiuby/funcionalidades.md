@@ -2,7 +2,7 @@
 layout: default
 title: Funcionalidades
 parent: Spotifiuby
-nav_order: 2
+nav_order: 1
 ---
 
 # Funcionalidades
@@ -42,7 +42,6 @@ nav_order: 2
   - Calificación cuantitativa de un album
   - Calificación cualitativa de un album
   - Seccion de comentarios
-  - Remover clasificacion de un album
 - Cobros y pagos
   - Pago de suscripción
 - Notificaciones
