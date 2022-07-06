@@ -21,7 +21,7 @@ has_children: true
 
 La aplicación fue desarrollada en una arquitectura de microservicios.
 
-# Arquitectura general
+# Arquitectura
 
 ![Arquitectura](../../img/back/arquitectura.png)
 
@@ -34,5 +34,5 @@ En el [README del repositorio](https://github.com/taller2-grupo5-rostov-1c2022/f
 para reproducir un mini backend sin perder mucho tiempo.
 
 El uso de un template facilitó mucho el desarrollo de nuevos microservicios y permitió tener rápidamente un walking skeleton funcionable. Sin embargo,
-es importante aclara que los dos templates no incluyen algún tipo de base de datos, es decir, si bien terminamos usando PostgreSQL en la mayoría de los
+es importante aclara que los dos templates no incluyen algún tipo de base de datos, es decir, si bien terminamos usando `PostgreSQL` en la mayoría de los
 casos, en un comienzo desconocíamos qué tipo de base de datos convenía para cada caso de uso.

@@ -17,9 +17,9 @@ Busca ofrecer distintos tipos de contenido, tanto en forma de canciones como en 
 El proyecto consta fundamentalmente de tres componentes:
 
 - [**Aplicación Móvil**](/docs/app/) \
-  con la cual el usuario interactúa para buscar música y reproducirla
+  con la cual el usuario interactúa para buscar música y reproducirla.
 - [**Backoffice Web**](/docs/backoffice/) \
-  para que los administradores gestionen el servicio
+  para que los administradores gestionen el servicio.
 - [**Backend**](/docs/backend/) \
   que se encarga de proveer todos los servicios necesarios para el funcionamiento de las aplicaciones.
 

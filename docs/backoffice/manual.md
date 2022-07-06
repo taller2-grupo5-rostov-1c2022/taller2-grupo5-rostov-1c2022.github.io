@@ -20,9 +20,9 @@ nav_order: 1
 
 ![login](/img/backoffice/login.png)
 
-Al acceder a la web lo primero que veremos sera la pantalla de login. Para poder ingresar necesitaremos una cuenta valida de administrador.
+Al acceder a la web lo primero que veremos será la pantalla de login. Para poder ingresar necesitaremos una cuenta válida de administrador.
 
-La cuenta de acceso sera la misma que se use para la aplicación móvil, otro administrador debe haberla designado como cuenta de administrador para tener permisos de acceso.
+La cuenta de acceso será la misma que se use para la aplicación móvil, otro administrador debe haberla designado como cuenta de administrador para tener permisos de acceso.
 
 ## Usuarios
 
@@ -34,20 +34,19 @@ En la sección de usuarios podremos visualizar todos los usuarios, sus datos pri
 
 En el detalle de un perfil podremos:
 
-- visualizar todos sus datos
-- visualizar y navegar sus contenidos
-- modificar su rol
-- deshabilitar su cuenta
-- agregar saldo
+- Visualizar todos sus datos
+- Visualizar y navegar sus contenidos
+- Modificar su rol
+- Deshabilitar su cuenta
+- Agregar saldo
 
 ## Contenido
 
-Los contenidos incluyen canciones , albums y playlists.
-Estos tienen una estructura similar.
+Los contenidos incluyen canciones, albums y playlists. Estos tienen una estructura similar.
 
 ![songs](/img/backoffice/songs.png)
 
-En los listados de contenidos, por ejemplo canciones, podremos ver sus datos principales con la opción de ver en detalle.
+En los listados de contenidos, como por ejemplo canciones, podremos ver sus datos principales con la opción de ver en detalle.
 
 ![filter](/img/backoffice/filter.png)
 
@@ -55,16 +54,16 @@ Las listas incluyen capacidades de filtro para facilitar la búsqueda.
 
 ![song](/img/backoffice/song.png)
 
-Ademas de visualizar los datos de una canción, tenemos la posibilidad de deshabilitaría.
+Además de visualizar los datos de una canción, tenemos la posibilidad de deshabilitarla.
 
 ![album](/img/backoffice/album.png)
 
 Para un album podremos:
 
-- visualizar sus datos
-- deshabilitar el album
-- visualizar y navegar a sus canciones
-- visualizar sus reseñas
+- Visualizar sus datos
+- Deshabilitar el album
+- Visualizar y navegar a sus canciones
+- Visualizar sus reseñas
 
 ## Pagos
 
@@ -82,11 +81,11 @@ En la sección de métricas de usuario podremos visualizar datos con respecto a:
 
 - roles
 - proveedores
-- inicios de sesion
+- inicios de session
 - nuevas cuentas
 - recuperación de contraseñas
 - otros
 
 ![detail](/img/backoffice/metrics_hover.png)
 
-Algunas filas pueden presentar un detalle al desplazar en puntero por sobre ellas
+Algunas filas pueden presentar un detalle al desplazar en puntero por sobre ellas.
