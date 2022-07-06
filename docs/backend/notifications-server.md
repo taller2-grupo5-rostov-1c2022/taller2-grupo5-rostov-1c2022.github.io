@@ -74,4 +74,4 @@ son las siguientes:
 - `HEROKU_APP_NAME:` nombre de la app en Heroku, requerida como action secret.
 - `HEROKU_EMAIL:` mail de la cuenta de Heroku utilizada para el deploy, requerida como action secret.
 - `CODECOV_TOKEN:` token de codecov, requerido para subir reportes de coverage mediante el pipeline de GitHub Actions.
-
+- `GOOGLE_CREDENTIALS`: JSON con credenciales de Google Cloud Storage asociadas a la organización de Firebase, requerida como config var en Heroku.
