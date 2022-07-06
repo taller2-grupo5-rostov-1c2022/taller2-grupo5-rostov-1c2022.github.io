@@ -16,4 +16,16 @@ nav_order: 1
 
 # API Gateway
 
-En [este link](https://github.com/taller2-grupo5-rostov-1c2022/ApiGateway) se puede acceder al repositorio.
+## Servicio
+
+Gateway a los micro-servicios de spotifiuby.
+
+Ademas de re-direccionar el trafico a los servidores correspondientes, provee las siguientes funcionalidades:
+
+- Permitir CORS
+- Autenticar y Autorizar usuarios
+
+## Acceso
+
+- URL : [rostov-gateway.herokuapp.com/](rostov-gateway.herokuapp.com/)
+- Código Fuente : [GitHub](https://github.com/taller2-grupo5-rostov-1c2022/ApiGateway)
