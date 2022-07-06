@@ -16,8 +16,8 @@ nav_order: 4
 
 # Servicio de mensajes
 
-* Se encarga de la **mensajería** entre usuarios.
-* **Base de datos no relacional**: ya que no existen muchas relaciones entre las entidades.
+- Se encarga de la **mensajería** entre usuarios.
+- **Base de datos no relacional**: ya que no existen muchas relaciones entre las entidades.
 Una conversación entre dos usuarios consiste simplemente en una lista de mensajes.
 
 En [este link](https://github.com/taller2-grupo5-rostov-1c2022/messages-server) se puede acceder al repositorio.
@@ -49,7 +49,7 @@ usando la imagen de Docker del servicio en desarrollo. En particular, se necesit
 ### Usando Docker
 
 Se cuenta con soporte para utilizar `Docker` de manera de no instalar todas las dependencias necesarias para el proyecto directamente.
-Las instrucciones se encuentran [acá](https://github.com/taller2-grupo5-rostov-1c2022/messages-server#docker)
+Las instrucciones se encuentran [acá](https://github.com/taller2-grupo5-rostov-1c2022/messages-server#docker).
 
 ### Usando poetry
 
@@ -67,10 +67,12 @@ que se necesita `MongoDB` instalado previamente), o directamente utilizar `Docke
 Las variables de entornos utilizadas, ya sea configuradas de manera local, mediante los `secrets` de GitHub, o config var en Heroku;
 son las siguientes:
 
+- `MONGO_URL:` URL de la base de datos MongoDB, requerida como config var en Heroku, como action secret y como variable de entorno local.
 - `DD_API_KEY:` API key de DataDog, requerida como config var en Heroku.
 - `DD_DYNO_HOST:` sirve agrupar hosts en DataDog, requerida como config var en Heroku.
 - `DD_TAGS:` tags para DataDog, requerida como config var en Heroku.
 - `API_KEY:` API key del servicio para realizar requests al mismo, requerida tanto como variable de entorno local y en Heroku.
+- `NOTIFS_API_KEY:` API key del servicio de notificaciones para realizar requests al mismo, requerida tanto como variable de entorno local y en Heroku.
 - `TESTING:` denota una especie de entorno de desarrollo, para poder testear fácilmente usando mocks de los servicios externos que lo requieran.
 - `HEROKU_API_KEY:` API key de la cuenta utilizada para deployar en Heroku, requerida como action secret.
 - `HEROKU_APP_NAME:` nombre de la app en Heroku, requerida como action secret.
