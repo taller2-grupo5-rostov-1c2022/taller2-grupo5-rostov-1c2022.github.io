@@ -23,7 +23,7 @@ $ docker-compose up --build
 
 #### Dependencies
 
-This project needs the following dependencies in the following order:
+This project needs the following dependencies, installed in this order:
 
 [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 

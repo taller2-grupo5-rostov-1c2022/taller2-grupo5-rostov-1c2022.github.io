@@ -42,7 +42,7 @@ En el detalle de un perfil podremos:
 
 ## Contenido
 
-Los contenidos incluyen canciones, albums y playlists. Estos tienen una estructura similar.
+Los contenidos incluyen canciones, álbums y playlists. Estos tienen una estructura similar.
 
 ![songs](/img/backoffice/songs.png)
 
@@ -56,12 +56,12 @@ Las listas incluyen capacidades de filtro para facilitar la búsqueda.
 
 Además de visualizar los datos de una canción, tenemos la posibilidad de deshabilitarla.
 
-![album](/img/backoffice/album.png)
+![álbum](/img/backoffice/album.png)
 
-Para un album podremos:
+Para un álbum podremos:
 
 - Visualizar sus datos
-- Deshabilitar el album
+- Deshabilitar el álbum
 - Visualizar y navegar a sus canciones
 - Visualizar sus reseñas
 

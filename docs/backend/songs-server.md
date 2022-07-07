@@ -83,5 +83,5 @@ son las siguientes:
 - `CODECOV_TOKEN:` token de codecov, requerido para subir reportes de coverage mediante el pipeline de GitHub Actions.
 - `AGORA_APP_CERT:` token de autenticación de la app de [Agora](https://www.agora.io/en/) (provee funcionalidades para hacer streams), requerido como config var en Heroku.
 - `AGORA_APP_ID:` ID de la app en [Agora](https://www.agora.io/en/), requerida como config var en Heroku.
-- `ENVIRONMENT`: indica qué entorno se está ejecutando ('prod' o 'dev'), lo cual modifica los *blobs* de firebase que se utilizan para guardar y recuperar archivos (canciones, covers de álbumes y fotos de perfil), evitando que se superpongan entre distintos entornos. Este cambio es transparente al usuario del storage de firebase. 
+- `ENVIRONMENT`: indica qué entorno se está ejecutando ('prod' o 'dev'), lo cual modifica los _blobs_ de firebase que se utilizan para guardar y recuperar archivos (canciones, covers de álbumes y fotos de perfil), evitando que se superpongan entre distintos entornos. Este cambio es transparente al usuario del storage de firebase.
 - `GOOGLE_CREDENTIALS`: JSON con credenciales de Google Cloud Storage asociadas a la organización de Firebase, requerida como config var en Heroku.

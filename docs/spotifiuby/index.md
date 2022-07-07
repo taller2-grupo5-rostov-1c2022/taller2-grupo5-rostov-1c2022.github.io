@@ -12,7 +12,7 @@ has_children: true
 
 Spotifiuby es un servicio de reproducción de música.
 Busca ofrecer distintos tipos de contenido, tanto en forma de canciones como en forma de
-álbumes y playlists. Cuenta, además, con servicios adicionales, como el de mensajería privada.
+álbumes y playlists. Cuenta, además, con servicios adicionales como el de mensajería privada.
 
 El proyecto consta fundamentalmente de tres componentes:
 

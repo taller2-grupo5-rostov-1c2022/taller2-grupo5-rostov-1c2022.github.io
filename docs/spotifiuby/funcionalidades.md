@@ -27,9 +27,9 @@ nav_order: 1
   - Contenidos favoritos
 - Artista
   - Creación de canción
-  - Creación de album
+  - Creación de álbum
   - Listado de álbumes
-  - Edición de album
+  - Edición de álbum
   - Transmisión en directo
 - Playlist
   - Crear playlist
@@ -39,8 +39,8 @@ nav_order: 1
 - Mensajes
   - Mensajes privados
 - Calificaciones
-  - Calificación cuantitativa de un album
-  - Calificación cualitativa de un album
+  - Calificación cuantitativa de un álbum
+  - Calificación cualitativa de un álbum
   - Seccion de comentarios
 - Cobros y pagos
   - Pago de suscripción

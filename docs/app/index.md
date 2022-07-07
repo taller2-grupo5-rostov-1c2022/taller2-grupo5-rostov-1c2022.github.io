@@ -19,7 +19,7 @@ Mediante nuestra app móvil podrás:
 - Enviar **mensajes** a otros usuarios
 - Y mucho más
 
-Ademas, podes volverte **artista** y asi crear tus propios contenidos !
+Además, podés volverte **artista** y así crear tus propios contenidos!
 
 ## Descarga
 
