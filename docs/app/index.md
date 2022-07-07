@@ -23,5 +23,5 @@ Ademas, podes volverte **artista** y asi crear tus propios contenidos !
 
 ## Descarga
 
-- [Releases](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases/)[[latest](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases/latest)]
+- [Releases](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases/) &nbsp; [ [latest](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases/latest) ]
 - [Descargar para Android](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases/latest/download/spotifiuby.apk)
